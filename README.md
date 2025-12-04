@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+### Assignment Merge Proof
+
+This line confirms that changes were made on the 'assignment-task' branch by kumariarti1470-boop to demonstrate the first merge operation.
